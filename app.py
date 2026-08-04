@@ -37,5 +37,5 @@ demo= gr.Interface(
 )
 demo.launch(
     server_name ="0.0.0.0",
-    server_port=int(os.environ_get("port",7860))
+    server_port=int(os.environ.get("port",7860))
 )
