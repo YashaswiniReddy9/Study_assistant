@@ -1,2 +1,2 @@
-google-gemai
+google-genai
 gradio
